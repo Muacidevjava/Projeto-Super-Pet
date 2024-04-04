@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #F8D629;
+}
+.topo{
+  margin-top: 57px;
+}
+.logo-text{
+  
+  font-size: 24px;
+  font-weight: 800;
+  color: #000;
+  text-decoration: none;
+  margin-right: 130px;
+  margin-left: 140px;
+}
+.link-bar{
+  display: inline-block;
+}
+.link{
+     
+  display: inline;
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  font-weight: 400;
+  margin-right: 38px;
+}
+
+.corpo{
+  display: flex;
+  margin-left: 140px;
+  margin-top: 20px;
+  
+}
+.descricao{
+  margin: auto 0;
+}
+h1{
+  color: #000;
+  font-size: 40px;
+  font-weight: 800;
+
+}
+.corpo.descricao p{
+  color: black;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal ;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 32px;
+  
+
+}
+.agendar{
+  margin-top: 20x;
+  text-decoration: none;
+  color:white;
+  border-radius: 30px;
+  background: black;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px;
+  font-weight: 400;
+  padding: 27px 10px;
+  display: block;
+  width: 259px;
+  height: 70px;
+}
+
